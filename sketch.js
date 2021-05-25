@@ -7,11 +7,11 @@ var carAnimation, logAnimation, playerAnimation;
 var school;
 function preload()
 {
-  cityAnimation=loadAnimation("images/city1.png");
-  carAnimation1=loadAnimation("images/car1.png");
-  carAnimation2=loadAnimation("images/car2.png");
-  playerAnimation=loadAnimation("images/Player-03.png");
-  logAnimation=loadAnimation("images/log2.png");
+  cityAnimation=loadAnimation(city1.png");
+  carAnimation1=loadAnimation("car1.png");
+  carAnimation2=loadAnimation("car2.png");
+  playerAnimation=loadAnimation("Player-03.png");
+  logAnimation=loadAnimation("log2.png");
 }
 
 function setup() {

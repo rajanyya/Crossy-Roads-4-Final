@@ -7,7 +7,7 @@ var carAnimation, logAnimation, playerAnimation;
 var school;
 function preload()
 {
-  cityAnimation=loadAnimation(city1.png");
+  cityAnimation=loadAnimation("city1.png");
   carAnimation1=loadAnimation("car1.png");
   carAnimation2=loadAnimation("car2.png");
   playerAnimation=loadAnimation("Player-03.png");
